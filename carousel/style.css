@@ -1,5 +1,5 @@
 * {
-	margin: 0px;
+	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
@@ -11,12 +11,12 @@ body {
 	position: relative;
 }
 
-section {
+/* section {
 	position: absolute;
 	left: 50%;
 
 	transform: translate(-50%);
-}
+} */
 
 .hide_display {
 	display: none;
