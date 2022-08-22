@@ -8,6 +8,18 @@ body {
 	font-family: "Inter", sans-serif;
 	color: #343a40;
 	line-height: 1;
+	position: relative;
+}
+
+section {
+	position: absolute;
+	left: 50%;
+
+	transform: translate(-50%);
+}
+
+.hide_display {
+	display: none;
 }
 
 img {
